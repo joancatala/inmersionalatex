@@ -1,18 +1,18 @@
-Breve inmersión a LaTeX para documentos técnicos
+Breu immersió a LaTeX per a documents tècnics
 ===============
 
-Manual para aprender LaTeX practicando con casos prácticos
+Manual per aprendre LaTeX practicant amb casos pràctics
 
-Licencia
+Llicència
 ===============
 
-Se otorga permiso para copiar, distribuir y/o modificar este documento bajo los términos de la Licencia de Documentación Libre de GNU, Versión 1.2 o cualquier otra versión posterior. 
+S'atorga permís per copiar, distribuir i/o modificar aquest document sota els termes de la Llicència de Documentació Lliure de GNU, Versió 1.2 o qualsevol altra versió posterior.
 
-Hago este pequeño manual para enseñar a redactar documentos, tutoriales y textos científicos muy rápidamente y de forma elegante con LaTeX. A menudo, el peor enemigo del Software Libre son los manuales aburridos o rocambolescos. Con este documento no vamos a profundizar y explorar todos los tesoros que se encuentran en el vasto y profundo océano del arte de la edición de documentos con LaTeX, sino que vamos a tirarnos al mar y te voy a enseñar a nadar muy rápidamente. Creo que es el mejor método para experimentar este software tan bueno. Si combinas este documento pdf con el código fuente con el que ha sido creado, aprenderás verdaderamente la técnica.  
+Faig aquest petit manual per ensenyar a redactar documents, tutorials i textos científics molt ràpidament i de forma elegant amb LaTeX. Sovint, el pitjor enemic del Programari Lliure són els manuals avorrits o rocambolescos. i t'ensenyaré a nedar molt ràpidament. Crec que és el millor mètode per experimentar aquest programari tan bo.
 
-Contacto
+Contacte
 ===============
 
-Conttacta conmigo desde mi perfil de GitHub, odesde Twitter (@joancatala) o desde mi correo joan-en-riseup.net
+Contacta amb mi des del meu perfil de GitHub, odes de Twitter (@joancatala) o des del meu correu joan-en-riseup.net
 
-Mi web personal es http://jcatala.net
+La meua web personal és http://joancatala.net
